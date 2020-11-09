@@ -3,11 +3,11 @@ import { View, Text, Button, ActivityIndicator } from 'react-native';
 import axios from 'axios';
 import { WebView } from 'react-native-webview'
 
-const userIdentifier = "7503491464";
-const password = "Nass#2020";
-const transactionPin = "135758";
-const authorizationToken = "Basic TUVSQ0hBTlRfQVBQOk1lcmNoYW50QEFkbWluIzEyMw==";
-
+const userIdentifier = "";
+const password = "";
+const transactionPin = "";
+const authorizationToken = "";
+ 
 class PaymentDemo extends Component {
 
 
