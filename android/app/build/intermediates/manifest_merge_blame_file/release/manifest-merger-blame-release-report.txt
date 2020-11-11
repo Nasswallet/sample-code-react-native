@@ -6,73 +6,73 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:4:5-67
-11-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:4:22-64
+11-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:6:5-25:19
+13-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:6:5-25:19
 14        android:name="com.paymentsample.MainApplication"
-14-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:7:7-38
+14-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:7:7-38
 15        android:allowBackup="false"
-15-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:11:7-34
+15-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:11:7-34
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.0.1] C:\Users\omar\.gradle\caches\transforms-2\files-2.1\003564936a98162fbdc3e4a2ca6d8cd0\core-1.0.1\AndroidManifest.xml:22:18-86
 17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:9:7-41
+17-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:9:7-41
 18        android:label="@string/app_name"
-18-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:8:7-39
+18-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:8:7-39
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:10:7-52
+19-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:10:7-52
 20        android:theme="@style/AppTheme" >
-20-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:12:7-38
+20-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:12:7-38
 21        <activity
-21-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:13:7-23:18
+21-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:13:7-23:18
 22            android:name="com.paymentsample.MainActivity"
-22-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:14:9-37
+22-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:14:9-37
 23            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-23-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:16:9-86
+23-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:16:9-86
 24            android:label="@string/app_name"
-24-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:15:9-41
+24-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:15:9-41
 25            android:launchMode="singleTask"
-25-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:17:9-40
+25-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:17:9-40
 26            android:windowSoftInputMode="adjustResize" >
-26-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:18:9-51
+26-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:18:9-51
 27            <intent-filter>
-27-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:19:9-22:25
+27-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:19:9-22:25
 28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:20:13-65
-28-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:20:21-62
+28-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:20:13-65
+28-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:20:21-62
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:21:13-73
-30-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:21:23-70
+30-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:21:13-73
+30-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:21:23-70
 31            </intent-filter>
 32        </activity>
 33        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-33-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:24:7-84
-33-->C:\Users\omar\Desktop\sample-code-reactnavite\android\app\src\main\AndroidManifest.xml:24:17-81
+33-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:24:7-84
+33-->C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\android\app\src\main\AndroidManifest.xml:24:17-81
 34
 35        <provider
-35-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+35-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
 36            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-36-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-83
+36-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-83
 37            android:authorities="com.paymentsample.fileprovider"
-37-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-64
+37-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-64
 38            android:exported="false"
-38-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+38-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
 39            android:grantUriPermissions="true" >
-39-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+39-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
 40            <meta-data
-40-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
+40-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
 41                android:name="android.support.FILE_PROVIDER_PATHS"
-41-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
+41-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
 42                android:resource="@xml/file_provider_paths" />
-42-->[:react-native-webview] C:\Users\omar\Desktop\sample-code-reactnavite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
+42-->[:react-native-webview] C:\Users\omar\Desktop\local nasswallet files\sample-code-react-navite\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
 43        </provider>
 44    </application>
 45

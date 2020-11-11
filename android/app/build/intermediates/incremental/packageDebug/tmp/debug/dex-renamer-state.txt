@@ -1,4 +1,4 @@
-#Wed Nov 11 14:19:37 AST 2020
-base.0=C\:\\Users\\omar\\Desktop\\sample-code-reactnavite\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Wed Nov 11 15:49:22 AST 2020
+base.0=C\:\\Users\\omar\\Desktop\\local nasswallet files\\sample-code-react-navite\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
