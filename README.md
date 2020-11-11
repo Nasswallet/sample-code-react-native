@@ -1,4 +1,4 @@
-# sample-code-react-navite using 
+# sample-code-react-navite  
 This project is a sample code to demonstrate how to make request to Nasswallet Payment Gateway APIs using React Native.
 
 ### To get started
